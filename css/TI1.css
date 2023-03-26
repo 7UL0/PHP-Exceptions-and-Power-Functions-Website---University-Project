@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@500&display=swap');
+
+/* font-family: 'Saira Condensed', sans-serif;
+font-family: 'Share Tech Mono', monospace; robo */
+
+
+.green {background-color:  #99d79a;} 
+
+.blue {background-color: #9c95ff }
+
+h1 {font-family: 'Saira Condensed', sans-serif;
+    background-color: #006d02;
+    
+    padding-left: 15px;
+    color: #002f01;}
+
+.red h1 {font-family: 'Saira Condensed', sans-serif;
+        background-color: #bb1111;
+        
+        padding-left: 15px;
+        color: #4b0909;}
+
+.blue h1 {font-family: 'Saira Condensed', sans-serif;
+    background-color:#10069b;;
+    
+    padding-left: 15px;
+    color: #090458;}
+
+h2 {font-family: 'Saira Condensed', sans-serif;
+    background-color: #19a61c;
+    
+    padding-left: 15px;
+    color: #006d02;}
+
+.red h2 {font-family: 'Saira Condensed', sans-serif;
+        background-color: #b43838;
+        
+        padding-left: 15px;
+        color: #a10d0d;}
+
+h4 {font-family: 'Saira Condensed', sans-serif;
+    background-color: #4dba4f;
+    
+    padding-left: 15px;
+    color: #008c03;
+font-size: 17px;}
+
+a {font-family: 'Saira Condensed', sans-serif;
+    background-color: #4dba4f;
+    
+    color: #008c03;
+font-size: 17px;}
+
+.blue h4 {font-family: 'Saira Condensed', sans-serif;
+    background-color: #564dd4;
+    
+    padding-left: 15px;
+    color: #1f13c7;
+font-size: 17px;}
+
+.blue a {font-family: 'Saira Condensed', sans-serif;
+    background-color: #564dd4;
+    
+    color: #1f13c7;
+font-size: 17px;}
+
+.red h4 {font-family: 'Saira Condensed', sans-serif;
+    background-color: #ce5b5b;
+    
+    padding-left: 15px;
+    color: #aa3232;
+font-size: 17px;}
+
+.red a {font-family: 'Saira Condensed', sans-serif;
+    background-color: #ce5b5b;
+    
+    color: #aa3232;
+font-size: 17px;}
+
+p {font-family: 'Saira Condensed', sans-serif;
+    
+    color: #000000;
+margin-left: 10px;}
+
+ul, li {font-family: 'Share Tech Mono', monospace;
+        
+        color: #000000;}
+
+.skladnia {font-family: 'Share Tech Mono', monospace;
+    
+    color: #000000;}
+
+.kod {font-family: 'Share Tech Mono', monospace;
+    color: black;
+margin-top:0;
+padding-top:5px;
+background-color:rgb(212, 212, 212);
+height:250px;
+margin-left:10px;
+margin-right:10px;
+padding-left:5px;}
+
+.kod1 {font-family: 'Share Tech Mono', monospace;
+    color: black;
+margin-top:0;
+padding-top:5px;
+background-color:rgb(212, 212, 212);
+height:350px;
+margin-left:10px;
+margin-right:10px;
+padding-left:5px;}
+
+.kod2 {font-family: 'Share Tech Mono', monospace;
+    color: black;
+margin-top:0;
+padding-top:5px;
+background-color:rgb(212, 212, 212);
+height:550px;
+margin-left:10px;
+margin-right:10px;
+padding-left:5px;}
+
+.uwaga {font-family: 'Saira Condensed', sans-serif;
+    
+    color: #9e0000;}
+
+.gora {font-family: 'Saira Condensed', sans-serif;
+    color: black;
+margin-top:0;
+padding-top:0;
+text-align: center;
+background-color:rgb(179, 179, 179);
+margin-bottom: 0;
+margin-left:10px;
+margin-right:10px;}
+
+#container p { display: inline }
+
+
+.column {float: left;
+        width: 50%;}
+      
+.row:after {content: "";
+            display: table;
+            clear: both;
+        margin-top: 0;
+    padding-top:0;}
+
+.red {background-color:rgb(255, 133, 133);}
